@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <Navbar style={{zIndex:1}} className="bg-primary position-fixed w-100">
         <Container>
-          <Navbar.Brand className='fs-5 text-white'>Student Admission Form</Navbar.Brand>
+          <Navbar.Brand className='fs-5 text-white'>Higher Secondary Admission Form</Navbar.Brand>
         </Container>
       </Navbar>
     </>

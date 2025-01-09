@@ -56,7 +56,7 @@ const Registerform = () => {
       <div>
         <Card className="p-5">
           <Card.Body>
-            <Card.Title>Please Fill This Form Below</Card.Title>
+            <Card.Title>Admission Form</Card.Title>
             <Form noValidate validated={validated} onSubmit={handleSubmit}>
               <Row className="mb-3">
                 <Form.Group as={Col} controlId="formGridName">
